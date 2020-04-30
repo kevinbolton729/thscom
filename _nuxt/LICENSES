@@ -1,21 +1,8 @@
-/*
-object-assign
-(c) Sindre Sorhus
-@license MIT
-*/
-
 /*!
   * vue-router v3.1.6
   * (c) 2020 Evan You
   * @license MIT
   */
-
-/*!
- * The buffer module from node.js, for the browser.
- *
- * @author   Feross Aboukhadijeh <http://feross.org>
- * @license  MIT
- */
 
 /*!
  * Vue-Lazyload.js v1.2.3
