@@ -2,20 +2,20 @@ importScripts('/thscom/_nuxt/workbox.4c4f5ca6.js')
 
 workbox.precaching.precacheAndRoute([
   {
+    "url": "/thscom/_nuxt/1f49b385cf6f1a7ba1d3.js",
+    "revision": "6f8f01062e5ef6f61bb12baf4fb4cf11"
+  },
+  {
+    "url": "/thscom/_nuxt/2f432058f891fc3815a6.js",
+    "revision": "12046724761f4b2fa676f3774e4bfddb"
+  },
+  {
+    "url": "/thscom/_nuxt/35eb66c942c905819616.js",
+    "revision": "3116f535e0800f17e98dc4e5dfe0471c"
+  },
+  {
     "url": "/thscom/_nuxt/40201ab4b303f8f3bcbf.js",
     "revision": "e34673c5c27df89245fdb7033646a3ba"
-  },
-  {
-    "url": "/thscom/_nuxt/62cd1d42a84fd568f5f5.js",
-    "revision": "b0947fa83d13b0e9eadafdfbe882b8f4"
-  },
-  {
-    "url": "/thscom/_nuxt/909373fe4b60fb6d070b.js",
-    "revision": "6c5b114bc02a04437f71f3b34c2fd3c8"
-  },
-  {
-    "url": "/thscom/_nuxt/b89fc585cb660d2afd80.js",
-    "revision": "d9217c694aea4ca3733f715c9125e3c0"
   },
   {
     "url": "/thscom/_nuxt/cbc3a9097b49690f5578.js",
